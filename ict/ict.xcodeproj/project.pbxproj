@@ -214,6 +214,7 @@
 				TargetAttributes = {
 					F194563B1EA61D3C008803F2 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = CC7LA4YMCR;
 						ProvisioningStyle = Automatic;
 					};
 					F194564F1EA61D3D008803F2 = {
@@ -434,7 +435,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = CC7LA4YMCR;
 				INFOPLIST_FILE = ict/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = akerke.ict;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -446,7 +449,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = CC7LA4YMCR;
 				INFOPLIST_FILE = ict/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = akerke.ict;
 				PRODUCT_NAME = "$(TARGET_NAME)";
